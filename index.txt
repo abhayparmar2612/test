@@ -1,6 +1,4 @@
 hii , this is my first github repo.
 this is for learning purpose.
 this line is for changes made in file.
-may this is very well.
-and thiis is from prob1.
 
